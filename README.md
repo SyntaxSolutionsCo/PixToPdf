@@ -16,8 +16,7 @@
 
 Ready to try out the app? Download the latest APK file directly here:
 
-👉 **[Download PixToPdf.apk](https://github.com/SyntaxSolutionsCo/PixToPdf/blob/main/PixToPdf.apk)**
-
+👉 **[Download PixToPdf.apk](https://raw.githubusercontent.com/SyntaxSolutionsCo/PixToPdf/main/PixToPdf.apk)**
 ---
 
 ## ✨ Key Features
